@@ -9,17 +9,7 @@ django_todolist
 - SQLite3数据库
 
 - 增删查改
-
 - 欢迎添加吃屎~
-
-- Django2.0真好用~
-
-<<<<<<< HEAD
-  ![主界面](.\img.png)
-=======
 - Django2.0
-- django真好~
->>>>>>> master
-=======
-  ![主界面](http://github.com/onceonmydoor/django_todolist/raw/master/img.png)
->>>>>>> master
+- django真好
+  ![主界面](http://github.com/onceonmydoor/django_todolist/raw/master/images/img.png）
