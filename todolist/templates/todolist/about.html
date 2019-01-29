@@ -1,0 +1,16 @@
+{% extends 'todolist/base.html' %}
+{% load static  %}
+{% block css %}{% static 'todolist/css/about.css' %}{% endblock css %}
+{% block 标题 %}关于本站{% endblock 标题 %}
+<!doctype html>
+{% block 高亮2 %}active{% endblock 高亮2 %}
+{% block 主体 %}
+  <br>
+  <br>
+   <a id="main">一款小巧、简洁的待办清单工具，帮你规划日常事务。</a>
+   <br>
+   <a>Power By Django</a>
+   <br>
+   <a>&copy;  黄占杰</a>
+{% endblock 主体  %}
+
