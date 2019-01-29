@@ -12,4 +12,4 @@ django_todolist
 - 欢迎添加吃屎~
 - Django2.0
 - django真好
-  ![主界面](http://github.com/onceonmydoor/django_todolist/raw/master/images/img.png）
+  ![主界面](http://github.com/onceonmydoor/django_todolist/raw/master/images/img.png)
